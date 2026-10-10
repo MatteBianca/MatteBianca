@@ -27,6 +27,10 @@ Basic knowledge: Python, React, Unity.
 
 ### Projects
 
+**[maintenance-api](https://github.com/MatteBianca/maintenance-api)**  
+FastAPI + MySQL backend for clients, maintenance jobs and subscriptions.  
+JWT auth, email reminders, audit log and backups.
+
 **Website — Elettrica Chiavacci**  
 [impiantielettriciprato.com](https://impiantielettriciprato.com)  
 Website developed for an electrical installation company in Prato.

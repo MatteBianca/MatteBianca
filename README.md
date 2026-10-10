@@ -27,6 +27,10 @@ Conoscenze di base: Python, React, Unity.
 
 ### Progetti
 
+**[maintenance-api](https://github.com/MatteBianca/maintenance-api)**  
+Backend FastAPI + MySQL per gestione clienti, manutenzioni e abbonamenti.  
+Autenticazione JWT, promemoria email, audit log e backup.
+
 **Sito web — Elettrica Chiavacci**  
 [impiantielettriciprato.com](https://impiantielettriciprato.com)  
 Sito realizzato per un’azienda di impianti elettrici di Prato.

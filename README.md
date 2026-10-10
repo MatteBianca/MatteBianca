@@ -1,3 +1,5 @@
+[🇮🇹 Italiano](README.md) · [🇬🇧 English](README_EN.md)
+
 # Ciao, sono Matteo
 
 **IT · Sviluppo software · Networking · Automazione industriale**  

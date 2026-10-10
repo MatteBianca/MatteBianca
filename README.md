@@ -6,16 +6,31 @@
 Dal cavo al software.
 
 Ho una formazione informatica e lavoro negli impianti elettrici a Prato, dove mi occupo anche di reti dati, videosorveglianza IP e automazione Siemens.  
-Prima ho lavorato nel supporto IT e sui software gestionali (Mexal e Passepartout), gestendo database SQL/MySQL e assistenza tecnica.
+Prima, in Made in Bit, ho lavorato nel supporto IT e sui software gestionali Mexal e Passepartout, con database SQL/MySQL e assistenza agli utenti.
 
-Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: capire come funzionano i sistemi, risolvere problemi e costruire strumenti utili anche fuori dallo schermo.
+Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risolvere problemi tecnici e costruire strumenti utili per le attività quotidiane. Cerco opportunità che uniscano sviluppo software, infrastrutture IT, networking e automazione industriale.
+
+### Progetti selezionati
+
+**[maintenance-api](projects/maintenance-api.md)** · Python, FastAPI, MySQL
+
+Backend per clienti, manutenzioni e abbonamenti, nato da un'esigenza di lavoro. Autenticazione JWT, promemoria email tramite API, importazione Excel e audit delle operazioni. Il [repository pubblico](https://github.com/MatteBianca/maintenance-api) contiene documentazione e sorgenti parziali; la scheda descrive il backend completo e le verifiche della copia locale.
+
+**[Life — Personal Progress Tracker](projects/life.md)** · HTML, CSS, JavaScript
+
+Web app personale per obiettivi, attività, note e avanzamento. Demo locale con dati fittizi, screenshot e prove nel browser; la versione personale include sincronizzazione con Cloudflare Pages, Workers e D1. Dati personali e configurazione cloud restano privati.
+
+**[Sito web — Elettrica Chiavacci](projects/company-website.md)**
+
+Sito realizzato per un'azienda di impianti elettrici di Prato. [Visita il sito](https://impiantielettriciprato.com).
 
 ### Competenze
 
-| Ambito | Tecnologie |
+| Ambito | Tecnologie e attività |
 |--------|------------|
 | Software e web | C#, PHP, JavaScript, HTML, CSS |
-| Database | SQL, MySQL, JSON |
+| Backend del progetto maintenance-api | Python, FastAPI, MySQL |
+| Database e dati | SQL, MySQL; JSON per lo scambio di dati |
 | Cloud | Cloudflare Pages, Workers, D1 |
 | IT e hardware | Windows, assemblaggio PC, troubleshooting, assistenza remota |
 | Reti | LAN/WAN, Ethernet, switch, router, IP, DNS, DHCP, cablaggio RJ45 |
@@ -24,16 +39,6 @@ Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: capir
 | Impianti elettrici | Cablaggio, quadri, componentistica |
 
 Conoscenze di base: Python, React, Unity.
-
-### Progetti
-
-**[maintenance-api](https://github.com/MatteBianca/maintenance-api)**  
-Backend FastAPI + MySQL per gestione clienti, manutenzioni e abbonamenti.  
-Autenticazione JWT, promemoria email, audit log e backup.
-
-**Sito web — Elettrica Chiavacci**  
-[impiantielettriciprato.com](https://impiantielettriciprato.com)  
-Sito realizzato per un’azienda di impianti elettrici di Prato.
 
 ### Esperienza
 
@@ -55,5 +60,3 @@ Diploma in **Sistemi Aziendali Informatici** — I.I.S. Paolo Dagomari, Prato (2
 ### Sto approfondendo
 
 Git e GitHub · Sviluppo web · Networking e troubleshooting · PLC e integrazione IT/OT · Inglese tecnico
-
-Cerco opportunità in cui si incontrano sviluppo software, infrastrutture IT, networking e automazione.

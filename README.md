@@ -12,14 +12,14 @@ Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risol
 
 ### Progetti selezionati
 
-**[maintenance-api](https://github.com/MatteBianca/maintenance-api)** · Python, FastAPI, MySQL  
+**[maintenance-api](projects/maintenance-api.md)** · Python, FastAPI, MySQL  
 Backend per gestire clienti, interventi di manutenzione e abbonamenti. Autenticazione JWT, promemoria email, import Excel e audit log. Nato da un’esigenza concreta sul lavoro.
 
-**[cantieri-app](https://github.com/MatteBianca/cantieri-app)** · Node.js, Express, React, MySQL  
+**[cantieri-app](projects/cantieri-app.md)** · Node.js, Express, React, MySQL  
 Web-app per i cantieri: gli operai registrano ore, lavori e materiali da telefono o PC; l’amministrazione vede tutto in un posto solo. Ruoli, approvazione ore, magazzino, QR e mappe.
 
-**[Sito web — Elettrica Chiavacci](https://impiantielettriciprato.com)**  
-Sito realizzato per un’azienda di impianti elettrici di Prato.
+**[Sito web — Elettrica Chiavacci](projects/company-website.md)**  
+Sito realizzato per un’azienda di impianti elettrici di Prato. [Visita il sito](https://impiantielettriciprato.com).
 
 ### Competenze
 

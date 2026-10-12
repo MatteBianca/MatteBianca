@@ -12,14 +12,14 @@ I'm interested in where IT meets field work: solving technical problems and buil
 
 ### Selected projects
 
-**[maintenance-api](https://github.com/MatteBianca/maintenance-api)** · Python, FastAPI, MySQL  
+**[maintenance-api](projects/maintenance-api.md#english)** · Python, FastAPI, MySQL  
 Backend for customers, maintenance jobs and subscriptions. JWT auth, email reminders, Excel import and an audit log. Built to solve a real need at work.
 
-**[cantieri-app](https://github.com/MatteBianca/cantieri-app)** · Node.js, Express, React, MySQL  
+**[cantieri-app](projects/cantieri-app.md#english)** · Node.js, Express, React, MySQL  
 Web app for construction sites: field workers log hours, tasks and materials from phone or PC; the office sees everything in one place. Roles, hour approval, warehouse, QR codes and maps.
 
-**[Website — Elettrica Chiavacci](https://impiantielettriciprato.com)**  
-Website built for an electrical installation company in Prato.
+**[Website — Elettrica Chiavacci](projects/company-website.md#english)**  
+Website built for an electrical installation company in Prato. [Visit the site](https://impiantielettriciprato.com).
 
 ### Skills
 

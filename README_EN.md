@@ -5,60 +5,55 @@
 **IT · Software Development · Networking · Industrial Automation**  
 From cable to software.
 
-I have a background in computer science and currently work in electrical installations in Prato, where I also deal with data networks, IP video surveillance and Siemens automation.  
-Previously, at Made in Bit, I worked in IT support and with Mexal and Passepartout business software, SQL/MySQL databases and user support.
+I have a background in IT and work in electrical installations in Prato, where I also deal with data networks, IP video surveillance and Siemens automation.  
+Previously, at Made in Bit, I worked in IT support and with Mexal and Passepartout business software, SQL/MySQL databases and end-user support.
 
-I'm interested in the intersection between IT and field work: solving technical problems and building tools for everyday operations. I'm looking for opportunities that combine software development, IT infrastructure, networking and industrial automation.
+I'm interested in where IT meets field work: solving technical problems and building tools that help day-to-day operations. I'm looking for roles that combine software development, IT infrastructure, networking and industrial automation.
 
 ### Selected projects
 
-**[maintenance-api](projects/maintenance-api.md#english)** · Python, FastAPI, MySQL
+**[maintenance-api](https://github.com/MatteBianca/maintenance-api)** · Python, FastAPI, MySQL  
+Backend for customers, maintenance jobs and subscriptions. JWT auth, email reminders, Excel import and an audit log. Built to solve a real need at work.
 
-Backend for customers, maintenance jobs and subscriptions, developed to address a workplace need. JWT authentication, email reminders through API endpoints, Excel imports and an audit log. The [public repository](https://github.com/MatteBianca/maintenance-api) contains documentation and partial source code; the project notes describe the complete backend and checks on the local copy.
+**[cantieri-app](https://github.com/MatteBianca/cantieri-app)** · Node.js, Express, React, MySQL  
+Web app for construction sites: field workers log hours, tasks and materials from phone or PC; the office sees everything in one place. Roles, hour approval, warehouse, QR codes and maps.
 
-**[Life — Personal Progress Tracker](projects/life.md#english)** · HTML, CSS, JavaScript
-
-Personal web app for goals, tasks, notes and progress. Local demo with fictional data, screenshots and browser checks; the personal version includes synchronisation through Cloudflare Pages, Workers and D1. Personal data and cloud configuration remain private.
-
-**[Website — Elettrica Chiavacci](projects/company-website.md#english)**
-
-Website developed for an electrical installation company in Prato. [Visit the website](https://impiantielettriciprato.com).
+**[Website — Elettrica Chiavacci](https://impiantielettriciprato.com)**  
+Website built for an electrical installation company in Prato.
 
 ### Skills
 
 | Area | Technologies and activities |
-|------|--------------|
-| Software & Web | C#, PHP, JavaScript, HTML, CSS |
-| Backend in maintenance-api | Python, FastAPI, MySQL |
-| Databases & Data | SQL, MySQL; JSON for data exchange |
+|------|-----------------------------|
+| Software & web | C#, PHP, JavaScript, HTML, CSS, React |
+| Backend | Python, FastAPI, Node.js, Express |
+| Databases | SQL, MySQL |
 | Cloud | Cloudflare Pages, Workers, D1 |
-| IT & Hardware | Windows, PC assembly, troubleshooting, remote support |
+| IT & hardware | Windows, PC assembly, troubleshooting, remote support |
 | Networking | LAN/WAN, Ethernet, switches, routers, IP, DNS, DHCP, RJ45 cabling |
-| Video Surveillance | IP cameras, PoE, NVR |
+| Video surveillance | IP cameras, PoE, NVR |
 | Automation | Siemens TIA Portal, PLC, LAD/FBD, HMI |
-| Electrical Installations | Cabling, electrical panels, components |
+| Electrical installations | Cabling, panels, components |
 
-Basic knowledge: Python, React, Unity.
+Basic knowledge: Unity.
 
 ### Experience
 
 **Impianti Elettrici Prato** · 2025 – Present  
-Apprentice Electrical Installer.  
+Apprentice electrical installer.  
 Electrical installations and cabling, Ethernet data networks, IP cameras, alarm systems, and Siemens PLC/HMI programming with TIA Portal.
 
 **Made in Bit** · 2024 – 2025  
-IT Support and Management Software.  
-Worked with Passepartout and Mexal software, SQL/MySQL databases, hardware/software troubleshooting and user support.
+IT support and management software (Passepartout and Mexal).  
+SQL/MySQL databases, hardware/software troubleshooting and user support.
 
 ### Education
 
 Diploma in **Business Information Systems** — I.I.S. Paolo Dagomari, Prato (2024)
 
-Additional training:
-
 - Siemens TIA Portal Basic  
 - Hikvision — IP networks, video surveillance and NVR
 
-### Currently learning
+### Currently focusing on
 
 Git and GitHub · Web development · Networking and troubleshooting · PLC and IT/OT integration · Technical English

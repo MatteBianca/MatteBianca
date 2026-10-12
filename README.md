@@ -12,25 +12,22 @@ Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risol
 
 ### Progetti selezionati
 
-**[maintenance-api](projects/maintenance-api.md)** · Python, FastAPI, MySQL
+**[maintenance-api](https://github.com/MatteBianca/maintenance-api)** · Python, FastAPI, MySQL  
+Backend per gestire clienti, interventi di manutenzione e abbonamenti. Autenticazione JWT, promemoria email, import Excel e audit log. Nato da un’esigenza concreta sul lavoro.
 
-Backend per clienti, manutenzioni e abbonamenti, nato da un'esigenza di lavoro. Autenticazione JWT, promemoria email tramite API, importazione Excel e audit delle operazioni. Il [repository pubblico](https://github.com/MatteBianca/maintenance-api) contiene documentazione e sorgenti parziali; la scheda descrive il backend completo e le verifiche della copia locale.
+**[cantieri-app](https://github.com/MatteBianca/cantieri-app)** · Node.js, Express, React, MySQL  
+Web-app per i cantieri: gli operai registrano ore, lavori e materiali da telefono o PC; l’amministrazione vede tutto in un posto solo. Ruoli, approvazione ore, magazzino, QR e mappe.
 
-**[Life — Personal Progress Tracker](projects/life.md)** · HTML, CSS, JavaScript
-
-Web app personale per obiettivi, attività, note e avanzamento. Demo locale con dati fittizi, screenshot e prove nel browser; la versione personale include sincronizzazione con Cloudflare Pages, Workers e D1. Dati personali e configurazione cloud restano privati.
-
-**[Sito web — Elettrica Chiavacci](projects/company-website.md)**
-
-Sito realizzato per un'azienda di impianti elettrici di Prato. [Visita il sito](https://impiantielettriciprato.com).
+**[Sito web — Elettrica Chiavacci](https://impiantielettriciprato.com)**  
+Sito realizzato per un’azienda di impianti elettrici di Prato.
 
 ### Competenze
 
 | Ambito | Tecnologie e attività |
-|--------|------------|
-| Software e web | C#, PHP, JavaScript, HTML, CSS |
-| Backend del progetto maintenance-api | Python, FastAPI, MySQL |
-| Database e dati | SQL, MySQL; JSON per lo scambio di dati |
+|--------|------------------------|
+| Software e web | C#, PHP, JavaScript, HTML, CSS, React |
+| Backend | Python, FastAPI, Node.js, Express |
+| Database | SQL, MySQL |
 | Cloud | Cloudflare Pages, Workers, D1 |
 | IT e hardware | Windows, assemblaggio PC, troubleshooting, assistenza remota |
 | Reti | LAN/WAN, Ethernet, switch, router, IP, DNS, DHCP, cablaggio RJ45 |
@@ -38,7 +35,7 @@ Sito realizzato per un'azienda di impianti elettrici di Prato. [Visita il sito](
 | Automazione | Siemens TIA Portal, PLC, LAD/FBD, HMI |
 | Impianti elettrici | Cablaggio, quadri, componentistica |
 
-Conoscenze di base: Python, React, Unity.
+Conoscenze di base: Unity.
 
 ### Esperienza
 

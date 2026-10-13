@@ -1,6 +1,6 @@
 [🇮🇹 Italiano](README.md) · [🇬🇧 English](README_EN.md)
 
-# Ciao, sono Matteo
+# Ciao, sono Matteo Biancalani
 
 **IT · Sviluppo software · Networking · Automazione industriale**  
 Dal cavo al software.
@@ -8,25 +8,30 @@ Dal cavo al software.
 Ho una formazione informatica e lavoro negli impianti elettrici a Prato, dove mi occupo anche di reti dati, videosorveglianza IP e automazione Siemens.  
 Prima, in Made in Bit, ho lavorato nel supporto IT e sui software gestionali Mexal e Passepartout, con database SQL/MySQL e assistenza agli utenti.
 
-Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risolvere problemi tecnici e costruire strumenti utili per le attività quotidiane. Cerco opportunità che uniscano sviluppo software, infrastrutture IT, networking e automazione industriale.
+Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risolvere problemi tecnici e costruire strumenti utili per le attività quotidiane. Cerco opportunità junior nel supporto IT, nel networking e nello sviluppo software, con interesse per l'integrazione con l'automazione industriale.
 
 ### Progetti selezionati
 
-**[maintenance-api](projects/maintenance-api.md)** · Python, FastAPI, MySQL  
-Backend per gestire clienti, interventi di manutenzione e abbonamenti. Autenticazione JWT, promemoria email, import Excel e audit log. Nato da un’esigenza concreta sul lavoro.
+**[maintenance-api](projects/maintenance-api.md)** · Python, FastAPI, MySQL
 
-**[cantieri-app](projects/cantieri-app.md)** · Node.js, Express, React, MySQL  
-Web-app per i cantieri: gli operai registrano ore, lavori e materiali da telefono o PC; l’amministrazione vede tutto in un posto solo. Ruoli, approvazione ore, magazzino, QR e mappe.
+Backend per la gestione di clienti, manutenzioni e abbonamenti, sviluppato per un'esigenza aziendale.
+
+**[cantieri-app](projects/cantieri-app.md)** · Node.js, Express, React, MySQL
+
+Applicazione web per organizzare le attività dei cantieri e supportare il lavoro di operatori e amministrazione.
 
 **[Sito web — Elettrica Chiavacci](projects/company-website.md)**  
 Sito realizzato per un’azienda di impianti elettrici di Prato. [Visita il sito](https://impiantielettriciprato.com).
+
+Per maintenance-api e cantieri-app, i sorgenti completi e i dati aziendali restano privati.
 
 ### Competenze
 
 | Ambito | Tecnologie e attività |
 |--------|------------------------|
-| Software e web | C#, PHP, JavaScript, HTML, CSS, React |
-| Backend | Python, FastAPI, Node.js, Express |
+| Software e web | C#, PHP, JavaScript, HTML, CSS |
+| Frontend di cantieri-app | React |
+| Backend dei progetti | Python e FastAPI (maintenance-api); Node.js ed Express (cantieri-app) |
 | Database | SQL, MySQL |
 | Cloud | Cloudflare Pages, Workers, D1 |
 | IT e hardware | Windows, assemblaggio PC, troubleshooting, assistenza remota |
@@ -61,4 +66,4 @@ Git e GitHub · Sviluppo web · Networking e troubleshooting · PLC e integrazio
 
 ### Contatti
 
-[impiantielettriciprato.com](https://impiantielettriciprato.com) · mattebianca127@gmail.com
+[mattebianca127@gmail.com](mailto:mattebianca127@gmail.com)

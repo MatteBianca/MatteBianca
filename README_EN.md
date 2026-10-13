@@ -1,6 +1,6 @@
 [🇮🇹 Italiano](README.md) · [🇬🇧 English](README_EN.md)
 
-# Hi, I'm Matteo
+# Hi, I'm Matteo Biancalani
 
 **IT · Software Development · Networking · Industrial Automation**  
 From cable to software.
@@ -8,25 +8,30 @@ From cable to software.
 I have a background in IT and work in electrical installations in Prato, where I also deal with data networks, IP video surveillance and Siemens automation.  
 Previously, at Made in Bit, I worked in IT support and with Mexal and Passepartout business software, SQL/MySQL databases and end-user support.
 
-I'm interested in where IT meets field work: solving technical problems and building tools that help day-to-day operations. I'm looking for roles that combine software development, IT infrastructure, networking and industrial automation.
+I'm interested in where IT meets field work: solving technical problems and building tools that help day-to-day operations. I'm looking for junior roles in IT support, networking and software development, with an interest in integrating IT with industrial automation.
 
 ### Selected projects
 
-**[maintenance-api](projects/maintenance-api.md#english)** · Python, FastAPI, MySQL  
-Backend for customers, maintenance jobs and subscriptions. JWT auth, email reminders, Excel import and an audit log. Built to solve a real need at work.
+**[maintenance-api](projects/maintenance-api.md#english)** · Python, FastAPI, MySQL
 
-**[cantieri-app](projects/cantieri-app.md#english)** · Node.js, Express, React, MySQL  
-Web app for construction sites: field workers log hours, tasks and materials from phone or PC; the office sees everything in one place. Roles, hour approval, warehouse, QR codes and maps.
+Backend for managing customers, maintenance jobs and subscriptions, developed to address a workplace need.
+
+**[cantieri-app](projects/cantieri-app.md#english)** · Node.js, Express, React, MySQL
+
+Web application for organising construction site activities and supporting field workers and office staff.
 
 **[Website — Elettrica Chiavacci](projects/company-website.md#english)**  
 Website built for an electrical installation company in Prato. [Visit the site](https://impiantielettriciprato.com).
+
+The complete source code for maintenance-api and cantieri-app, along with company data, remains private.
 
 ### Skills
 
 | Area | Technologies and activities |
 |------|-----------------------------|
-| Software & web | C#, PHP, JavaScript, HTML, CSS, React |
-| Backend | Python, FastAPI, Node.js, Express |
+| Software & web | C#, PHP, JavaScript, HTML, CSS |
+| Frontend in cantieri-app | React |
+| Backend in my projects | Python and FastAPI (maintenance-api); Node.js and Express (cantieri-app) |
 | Databases | SQL, MySQL |
 | Cloud | Cloudflare Pages, Workers, D1 |
 | IT & hardware | Windows, PC assembly, troubleshooting, remote support |
@@ -50,7 +55,7 @@ Mexal and Passepartout, SQL/MySQL databases, troubleshooting and user support.
 
 ### Education
 
-Upper secondary diploma in **Business Information Systems** — I.I.S. Paolo Dagomari, Prato · June 2024
+Upper secondary school diploma in **Business Information Systems** — I.I.S. Paolo Dagomari, Prato · June 2024
 
 - Siemens TIA Portal Basic — Marinipandolfi Spa, Florence (2026)  
 - IP networks, video surveillance and NVR — Sonepar / Hikvision (2026)
@@ -61,4 +66,4 @@ Git and GitHub · Web development · Networking and troubleshooting · PLC and I
 
 ### Contact
 
-[impiantielettriciprato.com](https://impiantielettriciprato.com) · mattebianca127@gmail.com
+[mattebianca127@gmail.com](mailto:mattebianca127@gmail.com)

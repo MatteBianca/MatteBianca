@@ -1,39 +1,39 @@
 # cantieri-app
 
-[Italiano](#italiano) · [English](#english) · [Profilo](../README.md)
+[Italiano](#italiano) · [English](#english)
 
 ## Italiano
 
 ### Problema e contributo
 
-Web-app interna per i cantieri: al posto del taccuino di carta, gli operai registrano ore, lavori, materiali e posizione da telefono o PC. L’amministrazione vede tutto in un unico posto.
+Ho sviluppato una web app per organizzare le attività dei cantieri e le registrazioni di ore e materiali. Il progetto è pensato per l'uso interno, da telefono e PC, con informazioni condivise tra operatori e amministrazione.
 
-**Tecnologie:** Node.js, Express, React, Vite, MySQL, JWT, Socket.io, Leaflet.
+Il mio contributo riguarda lo sviluppo dell'applicazione web, che collega un'interfaccia React alle API Node.js/Express e a un database MySQL.
 
-**Repository:** [MatteBianca/cantieri-app](https://github.com/MatteBianca/cantieri-app) (privato — codice sorgente senza dati aziendali).
+**Tecnologie principali:** JavaScript, Node.js, Express, React, Vite e MySQL.
 
-### Funzionalità
+**Stato dei sorgenti:** repository privato. Questa scheda pubblica descrive lo scopo e le tecnologie del progetto; non documenta un'installazione pubblica.
 
-- Cantieri: elenco, dettagli, note, scadenze
-- Ore lavorate: inserimento, timer presenze, workflow di approvazione
-- Magazzino: materiali e movimenti di stock
-- QR e mappa: scansione QR e geolocalizzazione
-- Ruoli: admin, project manager, operaio
-- Chat interna e audit trail
-- Budget e dashboard amministrativa
-- PWA installabile e notifiche push (opzionali)
+### Ambiti dell'applicazione
+
+- Organizzazione dei cantieri e delle attività.
+- Registrazione delle ore lavorate e dei materiali.
+- Accesso alle informazioni in base al ruolo dell'utente.
+- Consultazione e gestione dei dati da parte dell'amministrazione.
 
 ### Stack
 
 | Layer | Tecnologie |
 |-------|------------|
-| Backend | Node.js, Express, MySQL, JWT, Socket.io |
-| Frontend | React, Vite, React Router, Leaflet, Chart.js |
-| Extra | PWA, Web Push, PDF/Excel export, upload file |
+| Interfaccia | React e Vite |
+| API | Node.js ed Express |
+| Dati | MySQL |
 
-### Note
+### Riservatezza
 
-Progetto pensato per uso interno (impianti / cantieri). Nel repository non ci sono dati clienti, upload o backup.
+I sorgenti e i dettagli dei flussi aziendali restano privati. La scheda non contiene dati reali di clienti, personale o cantieri, né configurazioni operative.
+
+[Torna al profilo](../README.md)
 
 ---
 
@@ -41,31 +41,31 @@ Progetto pensato per uso interno (impianti / cantieri). Nel repository non ci so
 
 ### Problem and contribution
 
-Internal web app for construction sites: instead of paper notebooks, field workers log hours, tasks, materials and location from phone or PC. Administration sees everything in one place.
+I developed a web app to organise construction site activities and records of working hours and materials. The project is designed for internal use on phones and PCs, with shared information for field workers and office staff.
 
-**Technologies:** Node.js, Express, React, Vite, MySQL, JWT, Socket.io, Leaflet.
+My contribution covers web application development, connecting a React interface to Node.js/Express APIs and a MySQL database.
 
-**Repository:** [MatteBianca/cantieri-app](https://github.com/MatteBianca/cantieri-app) (private — source code only, no business data).
+**Main technologies:** JavaScript, Node.js, Express, React, Vite and MySQL.
 
-### Features
+**Source availability:** private repository. This public case study describes the project's purpose and technologies; it does not document a public deployment.
 
-- Sites: list, details, notes, deadlines
-- Worked hours: entry, attendance timer, approval workflow
-- Warehouse: materials and stock movements
-- QR and map: QR scan and site geolocation
-- Roles: admin, project manager, worker
-- Internal chat and audit trail
-- Budget and admin dashboard
-- Installable PWA and optional push notifications
+### Application scope
+
+- Organising construction sites and activities.
+- Recording working hours and materials.
+- Access to information based on user roles.
+- Data review and management by office staff.
 
 ### Stack
 
 | Layer | Technologies |
 |-------|--------------|
-| Backend | Node.js, Express, MySQL, JWT, Socket.io |
-| Frontend | React, Vite, React Router, Leaflet, Chart.js |
-| Extra | PWA, Web Push, PDF/Excel export, file uploads |
+| Interface | React and Vite |
+| API | Node.js and Express |
+| Data | MySQL |
 
-### Notes
+### Confidentiality
 
-Built for internal company use (electrical / construction work). The repository contains source code only — no client data, uploads or backups.
+Source code and business workflow details remain private. This case study contains no real customer, staff or site data, or operational configuration.
+
+[Back to the profile](../README_EN.md)

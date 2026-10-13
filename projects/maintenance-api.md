@@ -1,26 +1,27 @@
 # maintenance-api
 
-[Italiano](#italiano) · [English](#english) · [Profilo](../README.md)
+[Italiano](#italiano) · [English](#english)
 
 ## Italiano
 
 ### Problema e contributo
 
-Backend per organizzare clienti, manutenzioni e abbonamenti nel settore impiantistico. Gli operatori registrano scadenze e inviano promemoria ai clienti.
+Ho sviluppato un backend per organizzare clienti, manutenzioni e abbonamenti nel settore impiantistico. Il progetto nasce da un'esigenza di lavoro: aiutare gli operatori a gestire scadenze e promemoria per i clienti.
+
+Il mio contributo riguarda lo sviluppo delle API e la gestione dei dati del gestionale.
 
 **Tecnologie:** Python, FastAPI, MySQL, JWT, bcrypt, openpyxl, SMTP.
 
-**Repository:** [MatteBianca/maintenance-api](https://github.com/MatteBianca/maintenance-api) (privato — sorgenti senza dati aziendali).
+**Stato dei sorgenti:** repository privato. Questa scheda pubblica presenta il progetto a livello generale; non richiede accesso al software aziendale.
 
-### Funzionalità
+### Ambiti del backend
 
-- Clienti: creazione, lettura, modifica, eliminazione
-- Manutenzioni: scadenze, filtri, stato di completamento
-- Abbonamenti: scadenze, registrazione pagamenti, import Excel
-- Login JWT, password con bcrypt, ruoli utente/admin
-- Promemoria email via SMTP
-- Audit log delle operazioni
-- Script di backup MySQL (PowerShell)
+- Gestione delle anagrafiche e delle scadenze di manutenzioni e abbonamenti.
+- Registrazione dei pagamenti e importazione di dati da Excel.
+- Accesso con autenticazione JWT e ruoli utente/amministratore.
+- Invio di promemoria email e registro delle operazioni.
+
+Gli endpoint email inviano i promemoria quando vengono chiamati dal gestionale. Il backend analizzato non include uno scheduler autonomo.
 
 ```mermaid
 flowchart LR
@@ -29,9 +30,11 @@ flowchart LR
     API --> SMTP[Server SMTP]
 ```
 
-### Note
+### Riservatezza
 
-Nel repository non ci sono credenziali, log, backup o dati dei clienti.
+I sorgenti e i dettagli operativi restano privati. La scheda non contiene credenziali, dati dei clienti o configurazioni dell'ambiente aziendale.
+
+[Torna al profilo](../README.md)
 
 ---
 
@@ -39,24 +42,27 @@ Nel repository non ci sono credenziali, log, backup o dati dei clienti.
 
 ### Problem and contribution
 
-Backend to organise customers, maintenance jobs and subscriptions for an electrical installation business. Operators record due dates and send customer reminders.
+I developed a backend to organise customers, maintenance jobs and subscriptions for an electrical installation business. The project addresses a workplace need: helping operators manage due dates and customer reminders.
+
+My contribution covers API development and data handling for the business application.
 
 **Technologies:** Python, FastAPI, MySQL, JWT, bcrypt, openpyxl, SMTP.
 
-**Repository:** [MatteBianca/maintenance-api](https://github.com/MatteBianca/maintenance-api) (private — source only, no business data).
+**Source availability:** private repository. This public case study provides a general overview of the project without requiring access to the business application.
 
-### Features
+### Backend scope
 
-- Customers: create, read, update, delete
-- Maintenance jobs: deadlines, filters, completion status
-- Subscriptions: deadlines, payment logging, Excel import
-- JWT login, bcrypt passwords, user/admin roles
-- Email reminders via SMTP
-- Operation audit log
-- MySQL backup script (PowerShell)
+- Customer records and due dates for maintenance jobs and subscriptions.
+- Payment recording and Excel data imports.
+- JWT authentication and user/administrator roles.
+- Email reminders and an operation audit log.
+
+The email endpoints send reminders when called by the business application. The reviewed backend does not include a standalone scheduler.
 
 **Architecture:** HTTP client → FastAPI → MySQL and SMTP.
 
-### Notes
+### Confidentiality
 
-The repository does not include credentials, logs, backups or customer data.
+Source code and operational details remain private. This case study contains no credentials, customer data or business environment configuration.
+
+[Back to the profile](../README_EN.md)

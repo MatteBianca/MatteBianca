@@ -6,7 +6,7 @@
 Dal cavo al software.
 
 Ho una formazione informatica e lavoro negli impianti elettrici a Prato, dove mi occupo anche di reti dati, videosorveglianza IP e automazione Siemens.  
-Prima, in Made in Bit, ho lavorato nel supporto IT e sui software gestionali Mexal e Passepartout, con database SQL/MySQL e assistenza agli utenti.
+Prima, in Made in Bit, mi occupavo di programmazione di software gestionali e supporto IT, lavorando con Mexal, Passepartout e database SQL/MySQL.
 
 Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risolvere problemi tecnici e costruire strumenti utili per le attività quotidiane. Cerco opportunità junior nel supporto IT, nel networking e nello sviluppo software, con interesse per l'integrazione con l'automazione industriale.
 
@@ -50,8 +50,8 @@ Cablaggi e impianti, reti dati Ethernet, telecamere IP, antifurto e programmazio
 **Tirocinio elettrico** · Impianti Elettrici Prato · Dicembre 2025 – Giugno 2026  
 Affiancamento su posa cavi, reti dati e videosorveglianza.
 
-**Supporto IT e software gestionali** · Made in Bit · Novembre 2024 – Maggio 2025  
-Mexal e Passepartout, database SQL/MySQL, troubleshooting e assistenza utenti.
+**Sviluppo software e supporto IT** · Made in Bit · Novembre 2024 – Maggio 2025\
+Programmazione di software gestionali, lavoro con Mexal e Passepartout, database SQL/MySQL, troubleshooting e assistenza utenti.
 
 ### Formazione
 

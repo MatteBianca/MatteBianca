@@ -6,7 +6,7 @@
 From cable to software.
 
 I have a background in IT and work in electrical installations in Prato, where I also deal with data networks, IP video surveillance and Siemens automation.  
-Previously, at Made in Bit, I worked in IT support and with Mexal and Passepartout business software, SQL/MySQL databases and end-user support.
+Previously, at Made in Bit, I worked on business software development and IT support, using Mexal, Passepartout and SQL/MySQL databases.
 
 I'm interested in where IT meets field work: solving technical problems and building tools that help day-to-day operations. I'm looking for junior roles in IT support, networking and software development, with an interest in integrating IT with industrial automation.
 
@@ -50,8 +50,8 @@ Electrical installations and cabling, Ethernet data networks, IP cameras, alarm 
 **Electrical internship** · Impianti Elettrici Prato · December 2025 – June 2026  
 On-the-job training on cabling, data networks and video surveillance.
 
-**IT support and management software** · Made in Bit · November 2024 – May 2025  
-Mexal and Passepartout, SQL/MySQL databases, troubleshooting and user support.
+**Software development and IT support** · Made in Bit · November 2024 – May 2025\
+Business software development, work with Mexal and Passepartout, SQL/MySQL databases, troubleshooting and user support.
 
 ### Education
 

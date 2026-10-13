@@ -39,21 +39,26 @@ Conoscenze di base: Unity.
 
 ### Esperienza
 
-**Impianti Elettrici Prato** · 2025 – oggi  
-Apprendista installatore elettrico.  
+**Apprendista installatore elettrico** · Impianti Elettrici Prato (Elettrica Chiavacci) · Giugno 2026 – oggi  
 Cablaggi e impianti, reti dati Ethernet, telecamere IP, antifurto e programmazione PLC/HMI Siemens con TIA Portal.
 
-**Made in Bit** · 2024 – 2025  
-Supporto IT e software gestionali (Passepartout e Mexal).  
-Database SQL/MySQL, troubleshooting hardware/software e assistenza utenti.
+**Tirocinio elettrico** · Impianti Elettrici Prato · Dicembre 2025 – Giugno 2026  
+Affiancamento su posa cavi, reti dati e videosorveglianza.
+
+**Supporto IT e software gestionali** · Made in Bit · Novembre 2024 – Maggio 2025  
+Mexal e Passepartout, database SQL/MySQL, troubleshooting e assistenza utenti.
 
 ### Formazione
 
-Diploma in **Sistemi Aziendali Informatici** — I.I.S. Paolo Dagomari, Prato (2024)
+Diploma di maturità in **Sistemi Aziendali Informatici** — I.I.S. Paolo Dagomari, Prato · Giugno 2024
 
-- Siemens TIA Portal Basic  
-- Hikvision — Reti IP, videosorveglianza e NVR
+- Siemens TIA Portal Basic — Marinipandolfi Spa, Firenze (2026)  
+- Corso tecnico reti IP, videosorveglianza e NVR — Sonepar / Hikvision (2026)
 
 ### Sto approfondendo
 
 Git e GitHub · Sviluppo web · Networking e troubleshooting · PLC e integrazione IT/OT · Inglese tecnico
+
+### Contatti
+
+[impiantielettriciprato.com](https://impiantielettriciprato.com) · mattebianca127@gmail.com

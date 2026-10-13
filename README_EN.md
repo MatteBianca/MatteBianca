@@ -39,21 +39,26 @@ Basic knowledge: Unity.
 
 ### Experience
 
-**Impianti Elettrici Prato** · 2025 – Present  
-Apprentice electrical installer.  
+**Apprentice electrical installer** · Impianti Elettrici Prato (Elettrica Chiavacci) · June 2026 – Present  
 Electrical installations and cabling, Ethernet data networks, IP cameras, alarm systems, and Siemens PLC/HMI programming with TIA Portal.
 
-**Made in Bit** · 2024 – 2025  
-IT support and management software (Passepartout and Mexal).  
-SQL/MySQL databases, hardware/software troubleshooting and user support.
+**Electrical internship** · Impianti Elettrici Prato · December 2025 – June 2026  
+On-the-job training on cabling, data networks and video surveillance.
+
+**IT support and management software** · Made in Bit · November 2024 – May 2025  
+Mexal and Passepartout, SQL/MySQL databases, troubleshooting and user support.
 
 ### Education
 
-Diploma in **Business Information Systems** — I.I.S. Paolo Dagomari, Prato (2024)
+Upper secondary diploma in **Business Information Systems** — I.I.S. Paolo Dagomari, Prato · June 2024
 
-- Siemens TIA Portal Basic  
-- Hikvision — IP networks, video surveillance and NVR
+- Siemens TIA Portal Basic — Marinipandolfi Spa, Florence (2026)  
+- IP networks, video surveillance and NVR — Sonepar / Hikvision (2026)
 
 ### Currently focusing on
 
 Git and GitHub · Web development · Networking and troubleshooting · PLC and IT/OT integration · Technical English
+
+### Contact
+
+[impiantielettriciprato.com](https://impiantielettriciprato.com) · mattebianca127@gmail.com

@@ -55,7 +55,7 @@ Programmazione di software gestionali, lavoro con Mexal e Passepartout, database
 
 ### Formazione
 
-Diploma di maturità in **Sistemi Aziendali Informatici** — I.I.S. Paolo Dagomari, Prato · Giugno 2024
+Diploma di maturità in **Sistemi Informativi Aziendali (SIA)** — I.I.S. Paolo Dagomari, Prato · Giugno 2024
 
 - Siemens TIA Portal Basic — Marinipandolfi Spa, Firenze (2026)  
 - Corso tecnico reti IP, videosorveglianza e NVR — Sonepar / Hikvision (2026)

@@ -55,7 +55,7 @@ Business software development, work with Mexal and Passepartout, SQL/MySQL datab
 
 ### Education
 
-Upper secondary school diploma in **Business Information Systems** — I.I.S. Paolo Dagomari, Prato · June 2024
+Upper secondary school diploma in **Business Information Systems (Italian programme: Sistemi Informativi Aziendali, SIA)** — I.I.S. Paolo Dagomari, Prato · June 2024
 
 - Siemens TIA Portal Basic — Marinipandolfi Spa, Florence (2026)  
 - IP networks, video surveillance and NVR — Sonepar / Hikvision (2026)

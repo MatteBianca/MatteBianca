@@ -12,9 +12,9 @@ Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risol
 
 ### Progetti selezionati
 
-**[maintenance-api](projects/maintenance-api.md)** · Python, FastAPI, MySQL
+**[maintenance-api](projects/maintenance-api.md)** · Python, FastAPI, PySide6, React, MySQL
 
-Backend per la gestione di clienti, manutenzioni e abbonamenti, sviluppato per un'esigenza aziendale.
+Progetto gestionale per clienti, manutenzioni e abbonamenti, nato da un'esigenza aziendale: backend FastAPI/MySQL, client desktop PySide6 e pannello web React per gli abbonamenti.
 
 **[cantieri-app](projects/cantieri-app.md)** · Node.js, Express, React, MySQL
 
@@ -30,7 +30,8 @@ Per maintenance-api e cantieri-app, i sorgenti completi e i dati aziendali resta
 | Ambito | Tecnologie e attività |
 |--------|------------------------|
 | Software e web | C#, PHP, JavaScript, HTML, CSS |
-| Frontend di cantieri-app | React |
+| Applicazioni desktop | Python e PySide6 (maintenance-api) |
+| Frontend web | React (cantieri-app e maintenance-api) |
 | Backend dei progetti | Python e FastAPI (maintenance-api); Node.js ed Express (cantieri-app) |
 | Database | SQL, MySQL |
 | Cloud | Cloudflare Pages, Workers, D1 |

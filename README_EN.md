@@ -12,9 +12,9 @@ I'm interested in where IT meets field work: solving technical problems and buil
 
 ### Selected projects
 
-**[maintenance-api](projects/maintenance-api.md#english)** · Python, FastAPI, MySQL
+**[maintenance-api](projects/maintenance-api.md#english)** · Python, FastAPI, PySide6, React, MySQL
 
-Backend for managing customers, maintenance jobs and subscriptions, developed to address a workplace need.
+Management software for customers, maintenance jobs and subscriptions, developed to address a workplace need: a FastAPI/MySQL backend, a PySide6 desktop client and a React subscription management panel.
 
 **[cantieri-app](projects/cantieri-app.md#english)** · Node.js, Express, React, MySQL
 
@@ -30,7 +30,8 @@ The complete source code for maintenance-api and cantieri-app, along with compan
 | Area | Technologies and activities |
 |------|-----------------------------|
 | Software & web | C#, PHP, JavaScript, HTML, CSS |
-| Frontend in cantieri-app | React |
+| Desktop applications | Python and PySide6 (maintenance-api) |
+| Web frontend | React (cantieri-app and maintenance-api) |
 | Backend in my projects | Python and FastAPI (maintenance-api); Node.js and Express (cantieri-app) |
 | Databases | SQL, MySQL |
 | Cloud | Cloudflare Pages, Workers, D1 |

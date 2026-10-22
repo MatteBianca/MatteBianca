@@ -6,7 +6,7 @@
 Dal cavo al software.
 
 Ho una formazione informatica e lavoro negli impianti elettrici a Prato, dove mi occupo anche di reti dati, videosorveglianza IP e automazione Siemens.  
-Prima, in Made in Bit, ho lavorato nel supporto IT e sui software gestionali Mexal e Passepartout, con database SQL/MySQL e assistenza agli utenti.
+Prima, in Made in Bit, mi occupavo di sviluppo di software gestionali e supporto IT, lavorando con Mexal, Passepartout e database SQL/MySQL.
 
 Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risolvere problemi tecnici e costruire strumenti utili per le attività quotidiane. Cerco opportunità che uniscano sviluppo software, infrastrutture IT, networking e automazione industriale.
 
@@ -16,10 +16,12 @@ Mi interessa il punto in cui informatica e lavoro sul campo si incontrano: risol
 Gestionale per clienti, manutenzioni e abbonamenti: API FastAPI, client desktop Windows e pannello web. JWT, email, import Excel e audit log.
 
 **[cantieri-app](projects/cantieri-app.md)** · Node.js, Express, React, MySQL  
-Web-app per i cantieri: gli operai registrano ore, lavori e materiali da telefono o PC; l’amministrazione vede tutto in un posto solo. Ruoli, approvazione ore, magazzino, QR e mappe.
+Web-app per i cantieri: gli operai registrano ore, lavori e materiali da telefono o PC; l’amministrazione vede tutto in un posto solo. La scheda presenta lo scopo e le tecnologie del progetto.
 
 **[Sito web — Elettrica Chiavacci](projects/company-website.md)**  
 Sito realizzato per un’azienda di impianti elettrici di Prato. [Visita il sito](https://impiantielettriciprato.com).
+
+I sorgenti completi di maintenance-api e cantieri-app e i dati aziendali restano privati.
 
 ### Competenze
 
@@ -46,12 +48,12 @@ Cablaggi e impianti, reti dati Ethernet, telecamere IP, antifurto e programmazio
 **Tirocinio elettrico** · Impianti Elettrici Prato · Dicembre 2025 – Giugno 2026  
 Affiancamento su posa cavi, reti dati e videosorveglianza.
 
-**Supporto IT e software gestionali** · Made in Bit · Novembre 2024 – Maggio 2025  
-Mexal e Passepartout, database SQL/MySQL, troubleshooting e assistenza utenti.
+**Sviluppo software e supporto IT** · Made in Bit · Novembre 2024 – Maggio 2025\
+Programmazione di software gestionali, lavoro con Mexal e Passepartout, database SQL/MySQL, troubleshooting e assistenza utenti.
 
 ### Formazione
 
-Diploma di maturità in **Sistemi Aziendali Informatici** — I.I.S. Paolo Dagomari, Prato · Giugno 2024
+Diploma di maturità in **Sistemi Informativi Aziendali (SIA)** — I.I.S. Paolo Dagomari, Prato · Giugno 2024
 
 - Siemens TIA Portal Basic — Marinipandolfi Spa, Firenze (2026)  
 - Corso tecnico reti IP, videosorveglianza e NVR — Sonepar / Hikvision (2026)
@@ -62,4 +64,4 @@ Git e GitHub · Sviluppo web · Networking e troubleshooting · PLC e integrazio
 
 ### Contatti
 
-[impiantielettriciprato.com](https://impiantielettriciprato.com) · mattebianca127@gmail.com
+[impiantielettriciprato.com](https://impiantielettriciprato.com) · [mattebianca127@gmail.com](mailto:mattebianca127@gmail.com)

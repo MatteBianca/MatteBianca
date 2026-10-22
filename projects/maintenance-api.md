@@ -35,15 +35,16 @@ Nei sorgenti del client sono presenti anche notifiche desktop e script PowerShel
 
 ```mermaid
 flowchart LR
-    Client[Client HTTP] -->|JWT| API[FastAPI]
+    Desktop[Client desktop PySide6] -->|JWT| API[FastAPI]
+    Web[Pannello React] -->|JWT| API
     API --> DB[(MySQL)]
     API --> SMTP[Server SMTP]
 ```
 
 ### Stato e verifiche
 
-- **Verificato:** compilazione del pannello React e prove di interfaccia nel browser con dati fittizi e API simulate.
-- **Da completare:** allineamento tra interfacce e API; verifica su Windows dell'avvio completo del client desktop, dell'installer e delle notifiche native.
+- **Verificato sulla copia di sviluppo:** test di regressione, integrazione del client HTTP desktop con API, MySQL e SMTP locali; compilazione e prove del pannello React con dati fittizi; avvio della finestra Qt su Linux.
+- **Da completare:** collaudo su Windows del client, dell'installer e delle notifiche native. La copia di sviluppo resta separata dall'installazione aziendale.
 
 ### Riservatezza
 
@@ -84,12 +85,12 @@ The email endpoints send reminders when called by the business application. The 
 
 The client source also contains desktop notifications and PowerShell scripts for scheduled alerts on a Windows PC. PC alerts are separate from email delivery through the API.
 
-**Architecture:** HTTP client → FastAPI → MySQL and SMTP.
+**Architecture:** PySide6 desktop client / React panel → FastAPI → MySQL and SMTP.
 
 ### Status and validation
 
-- **Verified:** building the React panel and checking its interface in a browser with synthetic data and simulated APIs.
-- **Still to complete:** alignment between the interfaces and the API; verification of full desktop startup, the installer and native notifications on Windows.
+- **Verified on the development copy:** regression tests; desktop HTTP client integration with a local API, MySQL and SMTP; React build and browser checks with synthetic data; Qt main window startup on Linux.
+- **Still to complete:** Windows validation of the desktop client, installer and native notifications. The development copy remains separate from the company installation.
 
 ### Confidentiality
 

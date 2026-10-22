@@ -29,6 +29,16 @@ Il mio contributo riguarda lo sviluppo dell'applicazione web, che collega un'int
 | API | Node.js ed Express |
 | Dati | MySQL |
 
+### Architettura generale
+
+```mermaid
+flowchart LR
+    Browser[Telefono o PC - React] --> API[API Node.js - Express]
+    API --> DB[(MySQL)]
+```
+
+**Stato:** uso interno, senza demo pubblica. La revisione dei sorgenti è ancora da completare.
+
 ### Riservatezza
 
 I sorgenti e i dettagli dei flussi aziendali restano privati. La scheda non contiene dati reali di clienti, personale o cantieri, né configurazioni operative.
@@ -63,6 +73,10 @@ My contribution covers web application development, connecting a React interface
 | Interface | React and Vite |
 | API | Node.js and Express |
 | Data | MySQL |
+
+**General architecture:** phone/PC browser with React → Node.js/Express API → MySQL.
+
+**Status:** internal use, with no public demo. Source code review is still pending.
 
 ### Confidentiality
 

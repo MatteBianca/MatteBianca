@@ -6,7 +6,7 @@
 From cable to software.
 
 I have a background in IT and work in electrical installations in Prato, where I also deal with data networks, IP video surveillance and Siemens automation.  
-Previously, at Made in Bit, I worked in IT support and with Mexal and Passepartout business software, SQL/MySQL databases and end-user support.
+Previously, at Made in Bit, I worked on business software development and IT support, using Mexal, Passepartout and SQL/MySQL databases.
 
 I'm interested in where IT meets field work: solving technical problems and building tools that help day-to-day operations. I'm looking for roles that combine software development, IT infrastructure, networking and industrial automation.
 
@@ -16,10 +16,12 @@ I'm interested in where IT meets field work: solving technical problems and buil
 Management software for customers, maintenance and subscriptions: FastAPI backend, Windows desktop client and web admin panel. JWT, email, Excel import and audit log.
 
 **[cantieri-app](projects/cantieri-app.md#english)** · Node.js, Express, React, MySQL  
-Web app for construction sites: field workers log hours, tasks and materials from phone or PC; the office sees everything in one place. Roles, hour approval, warehouse, QR codes and maps.
+Web app for construction sites: field workers log hours, tasks and materials from phone or PC; the office sees everything in one place. The case study describes the purpose and technologies of the project.
 
 **[Website — Elettrica Chiavacci](projects/company-website.md#english)**  
 Website built for an electrical installation company in Prato. [Visit the site](https://impiantielettriciprato.com).
+
+The complete source code for maintenance-api and cantieri-app, along with company data, remains private.
 
 ### Skills
 
@@ -46,12 +48,12 @@ Electrical installations and cabling, Ethernet data networks, IP cameras, alarm 
 **Electrical internship** · Impianti Elettrici Prato · December 2025 – June 2026  
 On-the-job training on cabling, data networks and video surveillance.
 
-**IT support and management software** · Made in Bit · November 2024 – May 2025  
-Mexal and Passepartout, SQL/MySQL databases, troubleshooting and user support.
+**Software development and IT support** · Made in Bit · November 2024 – May 2025\
+Business software development, work with Mexal and Passepartout, SQL/MySQL databases, troubleshooting and user support.
 
 ### Education
 
-Upper secondary diploma in **Business Information Systems** — I.I.S. Paolo Dagomari, Prato · June 2024
+Upper secondary school diploma in **Business Information Systems (Italian programme: Sistemi Informativi Aziendali, SIA)** — I.I.S. Paolo Dagomari, Prato · June 2024
 
 - Siemens TIA Portal Basic — Marinipandolfi Spa, Florence (2026)  
 - IP networks, video surveillance and NVR — Sonepar / Hikvision (2026)
@@ -62,4 +64,4 @@ Git and GitHub · Web development · Networking and troubleshooting · PLC and I
 
 ### Contact
 
-[impiantielettriciprato.com](https://impiantielettriciprato.com) · mattebianca127@gmail.com
+[impiantielettriciprato.com](https://impiantielettriciprato.com) · [mattebianca127@gmail.com](mailto:mattebianca127@gmail.com)
